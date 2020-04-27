@@ -1,0 +1,3 @@
+dynaconf[all]
+httpx
+prometheus_client
